@@ -1,1 +1,3 @@
-jeevan is very good boy
+git add .
+git commit -m "django sessions"
+git push
